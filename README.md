@@ -28,7 +28,9 @@ To formulate a C program to convert a decimal number into its binary equivalent 
 ### Step 8: 
    Stop
 # Program:
+![2 6](https://github.com/user-attachments/assets/0e4fa494-019a-413b-9a5e-0a42a1ee8d83)
 # Output:
+![2 6output](https://github.com/user-attachments/assets/24d2de8d-edcc-4dc3-9201-6b8e7fdbaf10)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -67,7 +69,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9: 
   Stop
 # Program:
+![3 2](https://github.com/user-attachments/assets/f4bb72ef-ab5c-44f4-9e9f-f827668ca801)
+![3 2 2](https://github.com/user-attachments/assets/de5bedcc-41ef-4adc-83a1-c94886ed865a)
 # Output:
+![3 2output](https://github.com/user-attachments/assets/f9c98d1b-af47-4810-b216-fcc7acbb7d4a)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -101,7 +106,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10: 
   Stop
 # Program:
+![3 3](https://github.com/user-attachments/assets/e5dcc54d-8312-4b4c-ae6c-d2ca87f5a25e)
 # Output:
+![3 3output](https://github.com/user-attachments/assets/8c0a21f0-592d-40d3-af02-a618593ab3c3)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -135,7 +142,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:
   Stop
 # Program:
+![3 4](https://github.com/user-attachments/assets/e4558907-fb30-4d1c-b1a9-c9d48f14bc39)
 # Output:
+![3 4 output](https://github.com/user-attachments/assets/1595f8bf-11e9-422a-bf55-a2cfeea1e1f8)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -169,7 +178,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8: 
   Stop
 # Program:
+![3 5](https://github.com/user-attachments/assets/1310e171-808c-4207-9507-a23e25b3215e)
+![3 5 2](https://github.com/user-attachments/assets/62b9cec2-25c7-40ae-8ec7-59eba90476f3)
 # Output:
+![3 5 output](https://github.com/user-attachments/assets/98da5554-2450-4324-85d7-a62c0bbd8b94)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
